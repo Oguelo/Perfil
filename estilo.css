@@ -1,0 +1,50 @@
+header{
+    background-color:#040f13;
+    background-image: url(assets/images/banner.png);
+    line-height: 70px;
+
+}
+header p{
+    color: white;
+}
+body{
+    text-align: center;
+    align-items: center;
+    line-height: 50px;
+}
+main{  
+    
+
+}
+button{
+    color: #31A8DD;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 16px 32px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    background-color: transparent;
+    border-image: linear-gradient(#3BA1CD, #1572B7);
+    border-image-slice: 10;
+    border-radius: 30px;
+}
+body{
+    zoom: 1.0;
+}
+h1{
+    font-size: 2.5rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: transparent;
+    background: -webkit-linear-gradient(#33A8DB, #1472B7);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+* {
+    font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+}
+.header p{
+
+}
