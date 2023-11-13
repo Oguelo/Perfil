@@ -6,25 +6,14 @@ header{
 }
 header p{
     color: white;
-<<<<<<< Updated upstream
-=======
     font-size: 1.25rem;
     margin: 16px 0 24px;
->>>>>>> Stashed changes
+    align-items: center;
 }
 body{
     text-align: center;
     align-items: center;
-    line-height: 50px;
-<<<<<<< Updated upstream
-}
-main{  
-    
-
-}
-button{
-=======
-   
+    margin-inline-end: auto;
 }
 p {
     display: block;
@@ -38,7 +27,6 @@ main{
 
 }
 .banner button{
->>>>>>> Stashed changes
     color: #31A8DD;
     font-size: 1rem;
     font-weight: bold;
@@ -49,26 +37,14 @@ main{
     border-image: linear-gradient(#3BA1CD, #1572B7);
     border-image-slice: 10;
     border-radius: 30px;
-<<<<<<< Updated upstream
-}
-body{
-    zoom: 1.0;
-=======
     margin: 50px;
 
->>>>>>> Stashed changes
 }
 h1{
     font-size: 2.5rem;
     font-weight: 900;
     text-transform: uppercase;
     color: transparent;
-<<<<<<< Updated upstream
-    background: -webkit-linear-gradient(#33A8DB, #1472B7);
-    background-clip: text;
-    -webkit-background-clip: text;
-}
-=======
     background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
     background-clip: text;
     -webkit-background-clip: text;
@@ -84,16 +60,11 @@ h2{
 
 }
 
->>>>>>> Stashed changes
 * {
     font-family: 'Raleway', sans-serif;
     box-sizing: border-box;
     margin: 0;
 }
-<<<<<<< Updated upstream
-.header p{
-
-=======
 #transform-world{
     height: 560px;
     background-size: cover;
@@ -104,18 +75,16 @@ h2{
     padding: 200px;
 
 }
-section{
-    margin: auto;
-    
-}
+
 #course-content{
     background-color: black;
-
+    height: 400px;
 }
 #course-content p{
     color: white;
     font-size: 1.25rem;
     margin: 16px 0 24px;
+
 }
 #course-content .modules-list .module {
     color: white;
@@ -127,17 +96,7 @@ section{
     border-radius: 100px;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
   }
-.module{
-    color: white;
-    width: 530px;
-    margin: 0 auto 24px;
-    border: 1px solid #33A8DB;
-    background-color: #252525;
-    padding: 16px;
-    border-radius: 100px;
-    box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
-}
+
 span{
     color: #33A8DB;
->>>>>>> Stashed changes
 }
