@@ -4,7 +4,7 @@ header{
     line-height: 70px;
 
 }
-header p{
+.banner p{
     color: white;
     font-size: 1.25rem;
     margin: 16px 0 24px;
@@ -14,9 +14,10 @@ body{
     text-align: center;
     align-items: center;
     margin-inline-end: auto;
+    align-content: center;
 }
 p {
-    display: block;
+
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
@@ -57,7 +58,7 @@ h2{
     letter-spacing: 4px;
     text-transform: uppercase;
     margin-bottom: 24px;
-
+    text-align: center;
 }
 
 * {
@@ -73,6 +74,7 @@ h2{
     border-top: 1px solid #33A8DB80;
     border-bottom: 1px solid #33A8DB80;
     padding: 200px;
+    background-color: transparent;
 
 }
 
@@ -82,9 +84,9 @@ h2{
 }
 #course-content p{
     color: white;
-    font-size: 1.25rem;
+    font-size: 1rem;
     margin: 16px 0 24px;
-
+    text-align: center;
 }
 #course-content .modules-list .module {
     color: white;
